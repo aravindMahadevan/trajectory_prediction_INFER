@@ -4,4 +4,4 @@
 ## Instructions 
 
 1. Go to the [Nuscenes github page](https://github.com/nutonomy/nuscenes-devkit#nuscenes) and install the devkit. Once the devkit is installed, download the data set from the [Nuscenes website](https://www.nuscenes.org/download). In our experiments, we were only able to download the first 85 scenes from the TrainVal dataset. 
-2. Use the semantic segmentation network [here] (https://github.com/mapillary/inplace_abn) to segment the camera images in the TrainVal dataset. Ensure that the destination directory for the semantically segmented camera images is different than the source directory. 
+2. Use the semantic segmentation network [here](https://github.com/mapillary/inplace_abn) to segment the camera images in the TrainVal dataset. Ensure that the destination directory for the semantically segmented camera images is different than the source directory. 
