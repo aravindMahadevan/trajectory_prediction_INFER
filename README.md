@@ -10,4 +10,4 @@
 5. Train the model using train_safety.py
 
 ##Findings
-You can read about our findings [here]!(https://drive.google.com/drive/u/1/folders/1Zr2pgSbJBVFp7pQIZUr2eIUolaWoMzAR)
+You can read about our findings [here](https://drive.google.com/drive/u/1/folders/1Zr2pgSbJBVFp7pQIZUr2eIUolaWoMzAR)!
