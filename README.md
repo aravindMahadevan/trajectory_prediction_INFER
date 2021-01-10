@@ -9,5 +9,5 @@
 4. Construct the intermediate representation using generate_data.py. 
 5. Train the model using train_safety.py
 
-##Findings
+## Findings
 You can read about our findings [here](https://drive.google.com/drive/u/1/folders/1Zr2pgSbJBVFp7pQIZUr2eIUolaWoMzAR)!
