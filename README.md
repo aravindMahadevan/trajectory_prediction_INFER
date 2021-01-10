@@ -8,3 +8,6 @@
 3. When segmentation is finished, rename the source directory where the camera originated to a different name such as CAM_FRONT_OLD and rename the target directory to the previous source destination name. This step is important because it allows us to access the segmented camera images using the functions provided by the nuscenes devkit. 
 4. Construct the intermediate representation using generate_data.py. 
 5. Train the model using train_safety.py
+
+##Findings
+You can read about our findings [here]!(https://drive.google.com/drive/u/1/folders/1Zr2pgSbJBVFp7pQIZUr2eIUolaWoMzAR)
